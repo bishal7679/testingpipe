@@ -9,7 +9,7 @@ const Header = () => {
       <div>
       <section className="header_cont_1">
           <div className="header_cont_1_a">
-                <a href="#podcast"><button className="header_button"> Check out our most recent podcast 
+                <a href="#podcast"><button className="header_button"> Check out our most recent podcasts 
                   <img className="chevronright" src={ChevronRight} alt="chevron" />
                 </button>
                 </a>
