@@ -12,7 +12,7 @@ const Courses = () => {
       <h2 className="courses_title"><span className="header_free">Hands On Courses</span></h2>
       <ul className="courses_ul">
         <li>All courses are FREE while never compromising on quality.</li>
-        <li>We cover every topic in detail with a hands-on approach and <br /> mentor you to stand out to get opportunities by breaking all <br /> the barriers.</li>
+        <li>We cover every topic in detail with a hands-on approach and <br /> mentors you to stand out to get opportunities by breaking all <br /> the barriers.</li>
         <li>Explore a wide range of courses including Data Structures & <br /> Algorithms, Web Development, DevOps, Machine Learning, <br />  and more!</li>
       </ul>
       <Link to="/course">
